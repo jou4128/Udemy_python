@@ -1,2 +1,2 @@
-Hello, how are you today?
-I'm fine, thank you.
+Learning C is so fun. 
+Learning Java is also fun as well.
